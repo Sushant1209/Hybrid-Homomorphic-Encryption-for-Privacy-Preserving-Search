@@ -1,0 +1,20 @@
+{
+  "queries": [
+    "Java AND C++",
+    "Java OR C++",
+    "Python AND Azure",
+    "Java OR Python, C++"
+  ],
+  "execution_times": [
+    0.0004001140594482,
+    0.001013708114624,
+    0.0006215095520019,
+    0.0007876396179199
+  ],
+  "match_counts": [
+    190,
+    709,
+    306,
+    226
+  ]
+}

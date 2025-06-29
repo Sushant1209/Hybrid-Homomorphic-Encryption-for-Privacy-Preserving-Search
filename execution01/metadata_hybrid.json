@@ -1,0 +1,7090 @@
+{
+  "keywords": [
+    "java",
+    "python",
+    "react",
+    "angular",
+    "sql",
+    "aws",
+    "azure",
+    "spring",
+    "docker",
+    "cpp"
+  ],
+  "metadata": [
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 2,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "sql": 5,
+      "python": 4,
+      "aws": 5,
+      "azure": 5
+    },
+    {
+      "aws": 3,
+      "angular": 1,
+      "sql": 4,
+      "python": 4,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "angular": 2,
+      "sql": 4,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 5,
+      "angular": 1,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "angular": 2,
+      "sql": 3,
+      "python": 5,
+      "azure": 5
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "azure": 1,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "azure": 1,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "cpp": 2,
+      "sql": 4,
+      "python": 4,
+      "azure": 3,
+      "react": 2
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 5,
+      "react": 2
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "azure": 1,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "angular": 1,
+      "cpp": 5,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "sql": 1,
+      "python": 4,
+      "azure": 3
+    },
+    {
+      "sql": 4,
+      "python": 5,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "azure": 2,
+      "java": 5,
+      "react": 2
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 4,
+      "python": 3,
+      "azure": 1,
+      "react": 2,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "aws": 3,
+      "sql": 4,
+      "python": 3,
+      "azure": 5,
+      "java": 1
+    },
+    {
+      "java": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "java": 2,
+      "cpp": 1,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "sql": 5,
+      "python": 3,
+      "aws": 5,
+      "azure": 4
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 5,
+      "azure": 4
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "sql": 1,
+      "python": 3,
+      "azure": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 2,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "sql": 4,
+      "python": 4,
+      "aws": 3,
+      "azure": 5
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "sql": 3,
+      "python": 4,
+      "azure": 4,
+      "spring": 2
+    },
+    {
+      "sql": 3,
+      "python": 4,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "cpp": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "azure": 1,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "cpp": 1,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "python": 4,
+      "aws": 5,
+      "docker": 5,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "java": 3
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 2,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "docker": 2,
+      "java": 5
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "azure": 1,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 1,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 3,
+      "sql": 5,
+      "python": 4,
+      "azure": 3,
+      "react": 1
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "angular": 2,
+      "java": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "java": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "docker": 1,
+      "java": 4
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "java": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "python": 2,
+      "java": 3
+    },
+    {
+      "java": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 4,
+      "sql": 5,
+      "python": 4,
+      "azure": 3,
+      "spring": 1
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "azure": 2,
+      "java": 3
+    },
+    {
+      "sql": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "cpp": 1,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "angular": 2,
+      "python": 3,
+      "azure": 3,
+      "java": 2
+    },
+    {
+      "docker": 5,
+      "cpp": 1,
+      "sql": 5,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "java": 2,
+      "python": 1,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "sql": 4,
+      "python": 4,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 5,
+      "azure": 5,
+      "react": 1
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "sql": 1,
+      "python": 4,
+      "azure": 4,
+      "java": 2
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "angular": 2,
+      "python": 4,
+      "azure": 5,
+      "react": 2
+    },
+    {
+      "aws": 1,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "java": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 2,
+      "cpp": 3,
+      "sql": 5,
+      "java": 4,
+      "spring": 2
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "python": 3,
+      "azure": 3,
+      "java": 1
+    },
+    {
+      "aws": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 5,
+      "python": 3,
+      "azure": 2,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 2,
+      "cpp": 4,
+      "sql": 5,
+      "azure": 1,
+      "java": 4
+    },
+    {
+      "cpp": 2,
+      "docker": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "aws": 4,
+      "sql": 5,
+      "python": 5,
+      "azure": 5,
+      "spring": 2
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "azure": 1,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 3,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "python": 4,
+      "aws": 3,
+      "docker": 4,
+      "azure": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "java": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "sql": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "azure": 1,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "docker": 2,
+      "java": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 1,
+      "python": 5,
+      "azure": 5,
+      "react": 1
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "python": 3,
+      "azure": 5,
+      "react": 1
+    },
+    {
+      "azure": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "python": 5,
+      "azure": 3,
+      "java": 1
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 4,
+      "python": 3,
+      "react": 2,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "azure": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "cpp": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "aws": 3,
+      "angular": 1,
+      "cpp": 2,
+      "sql": 4,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "sql": 2,
+      "docker": 1,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "angular": 2,
+      "sql": 2,
+      "python": 5,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "azure": 1,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "python": 1,
+      "java": 4,
+      "react": 1
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "angular": 2,
+      "cpp": 5,
+      "sql": 3,
+      "azure": 2,
+      "java": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 4,
+      "azure": 4,
+      "spring": 1
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "cpp": 2,
+      "sql": 2,
+      "python": 3,
+      "azure": 3,
+      "react": 2
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "java": 5
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "cpp": 2,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "sql": 2,
+      "python": 3,
+      "azure": 5,
+      "spring": 1
+    },
+    {
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "azure": 1,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "angular": 1,
+      "python": 4,
+      "azure": 4,
+      "java": 2
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 4,
+      "python": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "python": 4,
+      "azure": 4,
+      "spring": 2
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "docker": 2,
+      "java": 5
+    },
+    {
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "python": 2,
+      "spring": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "sql": 2,
+      "python": 5,
+      "azure": 3,
+      "java": 2,
+      "spring": 2
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 5,
+      "python": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 5,
+      "angular": 2,
+      "sql": 5,
+      "python": 3,
+      "azure": 4,
+      "react": 2
+    },
+    {
+      "aws": 3,
+      "docker": 2,
+      "angular": 1,
+      "sql": 4,
+      "python": 4,
+      "azure": 3
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "aws": 1,
+      "docker": 1,
+      "cpp": 3,
+      "sql": 4,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "azure": 1,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "azure": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "sql": 5,
+      "python": 4,
+      "aws": 5,
+      "azure": 4
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 5,
+      "docker": 1,
+      "sql": 4,
+      "python": 3,
+      "azure": 4,
+      "java": 2,
+      "spring": 1
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 3
+    },
+    {
+      "aws": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "aws": 1,
+      "angular": 2,
+      "cpp": 3,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "react": 1,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "docker": 2,
+      "java": 3
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 4,
+      "python": 3,
+      "react": 1,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "angular": 2,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "aws": 1,
+      "java": 4
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "sql": 1,
+      "python": 3,
+      "azure": 3,
+      "spring": 1
+    },
+    {
+      "sql": 1,
+      "aws": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "java": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "angular": 2,
+      "sql": 4,
+      "python": 4,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 4,
+      "sql": 5,
+      "python": 2,
+      "java": 5
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "angular": 1,
+      "java": 5
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 3,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "azure": 2,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "python": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 3,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "java": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 5,
+      "python": 3,
+      "react": 2,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "sql": 4,
+      "python": 3,
+      "aws": 3,
+      "azure": 3
+    },
+    {
+      "aws": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "angular": 2,
+      "java": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 4,
+      "azure": 5
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "python": 4,
+      "azure": 4,
+      "react": 1
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "sql": 1,
+      "aws": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 4,
+      "python": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "angular": 2,
+      "cpp": 2,
+      "sql": 2,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 5,
+      "docker": 1,
+      "sql": 4,
+      "python": 4,
+      "azure": 5,
+      "react": 2
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 2,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "angular": 1,
+      "sql": 5,
+      "python": 4,
+      "azure": 3
+    },
+    {
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "python": 3,
+      "azure": 5,
+      "react": 2
+    },
+    {
+      "aws": 3,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "azure": 3,
+      "react": 2
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "angular": 1,
+      "sql": 2,
+      "python": 5,
+      "azure": 3,
+      "spring": 1
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "cpp": 2,
+      "sql": 4,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "azure": 1,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "azure": 2,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "azure": 1,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "sql": 1,
+      "azure": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "sql": 3,
+      "python": 3,
+      "azure": 5,
+      "react": 1
+    },
+    {
+      "sql": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "azure": 1,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "python": 1,
+      "spring": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "angular": 2,
+      "java": 5
+    },
+    {
+      "aws": 2,
+      "cpp": 5,
+      "sql": 4,
+      "java": 3,
+      "react": 2
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "sql": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "python": 4,
+      "azure": 4,
+      "spring": 1
+    },
+    {
+      "aws": 2,
+      "angular": 4,
+      "azure": 2,
+      "python": 2,
+      "react": 5
+    },
+    {
+      "cpp": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 2,
+      "cpp": 5,
+      "sql": 3,
+      "python": 2,
+      "java": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "azure": 2,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 4,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "cpp": 2,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "sql": 4,
+      "python": 5,
+      "azure": 4,
+      "spring": 1
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "python": 5,
+      "azure": 3,
+      "spring": 2
+    },
+    {
+      "sql": 3,
+      "python": 4,
+      "aws": 4,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 5,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "cpp": 2,
+      "sql": 5,
+      "python": 3,
+      "azure": 2,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "angular": 1,
+      "sql": 5,
+      "python": 3,
+      "azure": 4,
+      "spring": 2
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "python": 4,
+      "aws": 5,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "java": 1,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "sql": 4,
+      "python": 4,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "java": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 5,
+      "docker": 1,
+      "sql": 5,
+      "python": 4,
+      "azure": 5,
+      "spring": 1
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "azure": 2,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "sql": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "angular": 2,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "aws": 3,
+      "sql": 5,
+      "python": 5,
+      "azure": 5,
+      "spring": 1,
+      "java": 2,
+      "react": 2
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "cpp": 1,
+      "sql": 2,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "azure": 2,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "python": 3,
+      "azure": 3,
+      "java": 1
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "sql": 3,
+      "python": 5,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 3,
+      "azure": 2,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "azure": 1,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "spring": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "python": 2,
+      "aws": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "python": 5,
+      "azure": 5,
+      "java": 1
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "python": 1,
+      "java": 5
+    },
+    {
+      "aws": 5,
+      "sql": 5,
+      "python": 3,
+      "azure": 4,
+      "java": 2
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "angular": 2,
+      "java": 5
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 5,
+      "azure": 3
+    },
+    {
+      "aws": 2,
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 3,
+      "angular": 2,
+      "sql": 5,
+      "python": 4,
+      "azure": 3,
+      "react": 1
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "angular": 1,
+      "python": 5,
+      "azure": 5,
+      "spring": 2
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "sql": 1,
+      "docker": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "react": 1,
+      "java": 5,
+      "spring": 2
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 4,
+      "python": 5,
+      "azure": 1,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "react": 2,
+      "java": 5,
+      "spring": 1
+    },
+    {
+      "angular": 5,
+      "cpp": 1,
+      "python": 1,
+      "react": 4,
+      "java": 2,
+      "spring": 2
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "angular": 2,
+      "python": 5,
+      "azure": 3
+    },
+    {
+      "docker": 5,
+      "cpp": 1,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "azure": 2,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "cpp": 1,
+      "python": 4,
+      "azure": 4,
+      "java": 1
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "aws": 4,
+      "sql": 4,
+      "python": 3,
+      "azure": 3,
+      "java": 1,
+      "spring": 2
+    },
+    {
+      "sql": 2,
+      "azure": 1,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "sql": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 3,
+      "sql": 3,
+      "python": 3,
+      "azure": 4,
+      "java": 1
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "angular": 1,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "cpp": 2,
+      "python": 3,
+      "azure": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 2,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "cpp": 2,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "cpp": 1,
+      "docker": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "python": 4,
+      "aws": 5,
+      "docker": 4,
+      "azure": 5
+    },
+    {
+      "docker": 2,
+      "angular": 5,
+      "sql": 1,
+      "java": 1,
+      "react": 4
+    },
+    {
+      "angular": 1,
+      "cpp": 5,
+      "sql": 3,
+      "python": 2,
+      "spring": 2,
+      "java": 5,
+      "react": 2
+    },
+    {
+      "python": 5,
+      "aws": 5,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "java": 4
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "azure": 2,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "java": 3
+    },
+    {
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "cpp": 2,
+      "sql": 4,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "java": 5
+    },
+    {
+      "angular": 4,
+      "sql": 2,
+      "python": 2,
+      "react": 4,
+      "spring": 2
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "azure": 2,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "java": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "azure": 2,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "azure": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "python": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "azure": 1,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "angular": 3,
+      "cpp": 2,
+      "java": 2,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "azure": 2,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 5
+    },
+    {
+      "sql": 3,
+      "python": 4,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "azure": 2,
+      "python": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 3,
+      "azure": 3
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "sql": 2,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 4,
+      "azure": 5
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "angular": 2,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "angular": 2,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "azure": 1,
+      "java": 3
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "sql": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "cpp": 1,
+      "sql": 4,
+      "python": 3,
+      "react": 1,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "java": 5
+    },
+    {
+      "angular": 3,
+      "python": 1,
+      "react": 5,
+      "java": 1,
+      "spring": 1
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "python": 4,
+      "aws": 5,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "aws": 5,
+      "sql": 3,
+      "python": 3,
+      "azure": 3,
+      "java": 2
+    },
+    {
+      "java": 1,
+      "spring": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "azure": 2,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "azure": 2,
+      "java": 3
+    },
+    {
+      "angular": 4,
+      "sql": 1,
+      "react": 3,
+      "java": 2,
+      "spring": 2
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 4,
+      "azure": 5,
+      "java": 1
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 3,
+      "azure": 3
+    },
+    {
+      "aws": 1,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "aws": 2,
+      "cpp": 3,
+      "sql": 5,
+      "azure": 1,
+      "java": 3
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "angular": 2,
+      "python": 4,
+      "azure": 3
+    },
+    {
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "aws": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "sql": 2,
+      "python": 5,
+      "azure": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "python": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 5,
+      "aws": 1,
+      "java": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "java": 4,
+      "react": 1
+    },
+    {
+      "python": 5,
+      "aws": 5,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "python": 3,
+      "azure": 3,
+      "java": 1
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 5,
+      "python": 5,
+      "azure": 1,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 5
+    },
+    {
+      "sql": 5,
+      "python": 3,
+      "aws": 5,
+      "azure": 3
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "angular": 2,
+      "java": 4
+    },
+    {
+      "java": 1,
+      "spring": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "python": 5,
+      "azure": 4,
+      "react": 1
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "azure": 2,
+      "aws": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "sql": 5,
+      "python": 5,
+      "aws": 3,
+      "azure": 3
+    },
+    {
+      "aws": 4,
+      "cpp": 1,
+      "sql": 3,
+      "python": 3,
+      "azure": 5
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "azure": 1,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 5,
+      "azure": 4
+    },
+    {
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "angular": 2,
+      "python": 3,
+      "azure": 4,
+      "spring": 2,
+      "react": 1
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "java": 2,
+      "sql": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 1,
+      "python": 3,
+      "azure": 4,
+      "java": 1
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "sql": 2,
+      "python": 5,
+      "azure": 3,
+      "react": 2
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "java": 3,
+      "react": 1
+    },
+    {
+      "aws": 2,
+      "angular": 3,
+      "cpp": 2,
+      "sql": 2,
+      "react": 4,
+      "spring": 2
+    },
+    {
+      "sql": 3,
+      "python": 3,
+      "aws": 5,
+      "azure": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "java": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 1,
+      "angular": 1,
+      "cpp": 5,
+      "sql": 4,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "java": 3
+    },
+    {
+      "python": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "python": 3,
+      "azure": 4,
+      "spring": 1
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "azure": 1,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "docker": 1,
+      "cpp": 4,
+      "sql": 4,
+      "java": 3
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "java": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 3,
+      "sql": 3,
+      "python": 5,
+      "azure": 5,
+      "java": 2
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 5,
+      "spring": 1
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 3,
+      "azure": 3
+    },
+    {
+      "cpp": 1,
+      "spring": 1,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "java": 1,
+      "docker": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 3,
+      "react": 1,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "azure": 2,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "python": 1,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "angular": 1,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "python": 3,
+      "azure": 5,
+      "spring": 1,
+      "react": 1
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "azure": 1,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "sql": 1,
+      "python": 3,
+      "azure": 4,
+      "spring": 1
+    },
+    {
+      "aws": 2,
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "cpp": 2,
+      "sql": 5,
+      "python": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "angular": 3,
+      "sql": 2,
+      "azure": 1,
+      "java": 2,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 1,
+      "spring": 1,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "java": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "cpp": 4,
+      "sql": 4,
+      "python": 1,
+      "java": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "react": 2,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 5,
+      "azure": 5,
+      "java": 1
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "sql": 2,
+      "python": 4,
+      "azure": 4,
+      "java": 1
+    },
+    {
+      "cpp": 2,
+      "sql": 1,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "aws": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 4,
+      "python": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "java": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "python": 4,
+      "aws": 3,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "java": 3,
+      "react": 1
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "cpp": 1,
+      "sql": 2,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "react": 2,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "sql": 1,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "sql": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 4,
+      "angular": 1,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "sql": 1,
+      "spring": 1,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 5,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "sql": 3,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "python": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "angular": 1,
+      "sql": 4,
+      "python": 4,
+      "azure": 3,
+      "java": 1,
+      "spring": 1
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "cpp": 2,
+      "python": 4,
+      "azure": 3
+    },
+    {
+      "aws": 5,
+      "sql": 3,
+      "python": 5,
+      "azure": 3,
+      "spring": 2
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "java": 3,
+      "spring": 1
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 5,
+      "python": 3,
+      "azure": 1,
+      "react": 2,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "azure": 1,
+      "aws": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "sql": 1,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "cpp": 2,
+      "spring": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "azure": 1,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "sql": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "azure": 1,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "sql": 5,
+      "python": 5,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "azure": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "java": 1,
+      "cpp": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 5,
+      "azure": 3,
+      "java": 2,
+      "spring": 1
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "azure": 2,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 4,
+      "azure": 3,
+      "react": 1
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "azure": 1,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "sql": 2,
+      "spring": 2,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "cpp": 1,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "angular": 2,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 4,
+      "angular": 1,
+      "cpp": 2,
+      "sql": 4,
+      "python": 3,
+      "azure": 4,
+      "spring": 1
+    },
+    {
+      "aws": 2,
+      "spring": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "python": 3,
+      "aws": 3,
+      "docker": 5,
+      "azure": 4
+    },
+    {
+      "java": 1,
+      "python": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "angular": 1,
+      "cpp": 5,
+      "sql": 3,
+      "java": 3,
+      "react": 1
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "sql": 2,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "java": 2,
+      "sql": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "docker": 1,
+      "angular": 3,
+      "cpp": 1,
+      "azure": 2,
+      "react": 5,
+      "spring": 1
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "java": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "python": 5,
+      "aws": 5,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "sql": 4,
+      "python": 3,
+      "aws": 5,
+      "azure": 3
+    },
+    {
+      "sql": 2,
+      "spring": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 5,
+      "python": 5,
+      "react": 1,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "angular": 2,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "sql": 3,
+      "python": 4,
+      "aws": 3,
+      "azure": 3
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "python": 5,
+      "azure": 5,
+      "react": 1
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "python": 2,
+      "java": 5
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 3,
+      "azure": 5,
+      "react": 2
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "cpp": 1,
+      "python": 5,
+      "azure": 5
+    },
+    {
+      "java": 1,
+      "spring": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "python": 2,
+      "spring": 1,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 4
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "angular": 1,
+      "cpp": 2,
+      "python": 4,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "azure": 2,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "angular": 1,
+      "cpp": 5,
+      "sql": 3,
+      "azure": 2,
+      "java": 4,
+      "react": 1
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "cpp": 1,
+      "python": 5,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "python": 4,
+      "aws": 5,
+      "docker": 4,
+      "azure": 3
+    },
+    {
+      "sql": 5,
+      "python": 3,
+      "aws": 5,
+      "azure": 4
+    },
+    {
+      "python": 5,
+      "aws": 5,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "azure": 1,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 4,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 4,
+      "python": 3,
+      "azure": 1,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "azure": 1,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "java": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 3
+    },
+    {
+      "aws": 2,
+      "cpp": 4,
+      "sql": 5,
+      "python": 1,
+      "azure": 1,
+      "java": 5
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "cpp": 3,
+      "sql": 3,
+      "python": 2,
+      "java": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "azure": 1,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "angular": 2,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "python": 1,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "azure": 2,
+      "java": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "python": 1,
+      "docker": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 5,
+      "cpp": 2,
+      "sql": 4,
+      "python": 5,
+      "azure": 1,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "sql": 1,
+      "spring": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "angular": 2,
+      "java": 5
+    },
+    {
+      "python": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "angular": 1,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "sql": 5,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 5,
+      "azure": 4
+    },
+    {
+      "aws": 4,
+      "sql": 4,
+      "python": 5,
+      "azure": 4,
+      "java": 1,
+      "react": 1
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "sql": 2,
+      "python": 3,
+      "azure": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "azure": 2,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 4,
+      "python": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "docker": 1,
+      "cpp": 5,
+      "sql": 3,
+      "java": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "python": 5,
+      "azure": 3,
+      "react": 2
+    },
+    {
+      "python": 3,
+      "aws": 5,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "aws": 2,
+      "spring": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "python": 4,
+      "azure": 5,
+      "spring": 2
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "azure": 1,
+      "java": 3
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "sql": 1,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "python": 3,
+      "azure": 5,
+      "java": 2,
+      "react": 2
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "sql": 4,
+      "python": 5,
+      "aws": 4,
+      "azure": 4
+    },
+    {
+      "python": 5,
+      "aws": 5,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "sql": 2,
+      "azure": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "cpp": 2,
+      "python": 4,
+      "azure": 4
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "azure": 2,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "python": 3,
+      "aws": 4,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "angular": 1,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 2,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "java": 1,
+      "spring": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "azure": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 4,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 4,
+      "python": 4,
+      "react": 2,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "azure": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 4,
+      "docker": 4,
+      "cpp": 1,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "python": 5,
+      "azure": 5,
+      "react": 2
+    },
+    {
+      "docker": 5,
+      "cpp": 2,
+      "sql": 3,
+      "python": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "azure": 2,
+      "java": 5,
+      "spring": 2
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "azure": 2,
+      "java": 5
+    },
+    {
+      "sql": 2,
+      "aws": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 5,
+      "docker": 4,
+      "python": 5,
+      "azure": 4,
+      "java": 1
+    },
+    {
+      "aws": 2,
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "python": 2,
+      "docker": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "docker": 1,
+      "java": 4
+    },
+    {
+      "docker": 2,
+      "cpp": 3,
+      "sql": 5,
+      "java": 4,
+      "spring": 1
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "aws": 5,
+      "angular": 1,
+      "sql": 5,
+      "python": 4,
+      "azure": 3,
+      "spring": 2,
+      "react": 2
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 5,
+      "python": 3,
+      "react": 1,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 2,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "sql": 2,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "cpp": 2,
+      "python": 5,
+      "azure": 4,
+      "react": 1
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 5,
+      "python": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "cpp": 2,
+      "python": 5,
+      "azure": 5
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 5,
+      "spring": 2
+    },
+    {
+      "java": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "sql": 3,
+      "python": 3,
+      "aws": 5,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "azure": 2,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "cpp": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 2,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "react": 1,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 2,
+      "python": 5,
+      "azure": 4,
+      "java": 1
+    },
+    {
+      "sql": 5,
+      "python": 5,
+      "aws": 5,
+      "azure": 4
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "cpp": 1,
+      "sql": 5,
+      "python": 5,
+      "react": 2,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "python": 4,
+      "aws": 5,
+      "docker": 5,
+      "azure": 3
+    },
+    {
+      "azure": 1,
+      "spring": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "sql": 1,
+      "docker": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "java": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "cpp": 2,
+      "aws": 1,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 4,
+      "python": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "sql": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "aws": 1,
+      "docker": 3,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 3,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "cpp": 3,
+      "sql": 5,
+      "azure": 1,
+      "java": 3
+    },
+    {
+      "sql": 3,
+      "python": 5,
+      "aws": 4,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 3,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 4,
+      "azure": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 2,
+      "sql": 5,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "cpp": 1,
+      "sql": 3,
+      "python": 5,
+      "azure": 1,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "python": 1,
+      "java": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "python": 1,
+      "azure": 1,
+      "java": 5
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "python": 4,
+      "azure": 3,
+      "spring": 1
+    },
+    {
+      "aws": 1,
+      "cpp": 3,
+      "sql": 5,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "aws": 1,
+      "angular": 4,
+      "react": 3
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "angular": 2,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "sql": 4,
+      "python": 3,
+      "aws": 4,
+      "azure": 3
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "python": 5,
+      "azure": 4,
+      "react": 1
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 2,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 3,
+      "java": 3,
+      "react": 1
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "sql": 1,
+      "python": 3,
+      "azure": 3,
+      "react": 1
+    },
+    {
+      "java": 1,
+      "cpp": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 1,
+      "cpp": 3,
+      "sql": 4,
+      "react": 2,
+      "java": 5,
+      "spring": 1
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 2,
+      "python": 4,
+      "azure": 5
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 2,
+      "python": 3,
+      "azure": 3,
+      "spring": 2
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 5,
+      "react": 2
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 1,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 4,
+      "python": 3,
+      "react": 2,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "cpp": 2,
+      "sql": 3,
+      "python": 5,
+      "azure": 3,
+      "java": 1,
+      "react": 2
+    },
+    {
+      "aws": 4,
+      "docker": 1,
+      "sql": 3,
+      "python": 4,
+      "azure": 5,
+      "spring": 1,
+      "react": 2
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 5,
+      "python": 3,
+      "azure": 1,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "sql": 5,
+      "python": 3,
+      "aws": 4,
+      "azure": 3
+    },
+    {
+      "java": 1,
+      "spring": 2,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "angular": 2,
+      "python": 5,
+      "azure": 4
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 5,
+      "azure": 1,
+      "react": 5,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "cpp": 2,
+      "azure": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 5,
+      "python": 3,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 5
+    },
+    {
+      "sql": 5,
+      "python": 3,
+      "aws": 5,
+      "azure": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "sql": 4,
+      "python": 3,
+      "aws": 3,
+      "azure": 3
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "python": 5,
+      "azure": 4,
+      "java": 1,
+      "spring": 2
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "sql": 1,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "python": 5,
+      "aws": 3,
+      "docker": 3,
+      "azure": 5
+    },
+    {
+      "python": 4,
+      "aws": 3,
+      "docker": 3,
+      "azure": 4
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "docker": 3,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "cpp": 5,
+      "sql": 4,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "cpp": 1,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 4,
+      "cpp": 1,
+      "sql": 4,
+      "python": 4,
+      "azure": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 4
+    },
+    {
+      "aws": 3,
+      "cpp": 2,
+      "sql": 5,
+      "python": 5,
+      "azure": 5
+    },
+    {
+      "cpp": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "cpp": 2,
+      "docker": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "react": 2,
+      "java": 3,
+      "spring": 1
+    },
+    {
+      "cpp": 5,
+      "sql": 4,
+      "java": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 1,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "cpp": 1,
+      "python": 2,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 1,
+      "angular": 1,
+      "cpp": 4,
+      "sql": 3,
+      "java": 3,
+      "react": 1
+    },
+    {
+      "python": 4,
+      "aws": 4,
+      "docker": 5,
+      "azure": 4
+    },
+    {
+      "cpp": 2,
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "cpp": 4,
+      "sql": 3,
+      "java": 5
+    },
+    {
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "java": 2,
+      "spring": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "cpp": 1,
+      "python": 5,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 2,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "azure": 2,
+      "react": 3,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 5,
+      "react": 1,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "angular": 1,
+      "sql": 3,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 2,
+      "cpp": 5,
+      "sql": 5,
+      "azure": 2,
+      "java": 4
+    },
+    {
+      "aws": 4,
+      "docker": 5,
+      "angular": 2,
+      "python": 5,
+      "azure": 3,
+      "spring": 1
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 3,
+      "python": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 4,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "aws": 5,
+      "docker": 5,
+      "angular": 1,
+      "python": 4,
+      "azure": 3,
+      "react": 1
+    },
+    {
+      "azure": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "azure": 1,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 5,
+      "azure": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 3,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "sql": 2,
+      "python": 3,
+      "azure": 5
+    },
+    {
+      "docker": 2,
+      "cpp": 5,
+      "sql": 3,
+      "java": 4,
+      "react": 2
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "java": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "sql": 3,
+      "python": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 4,
+      "react": 4,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "sql": 1,
+      "python": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "aws": 2,
+      "docker": 3,
+      "sql": 5,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "python": 1,
+      "java": 4
+    },
+    {
+      "docker": 5,
+      "sql": 4,
+      "python": 5,
+      "azure": 1,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "react": 4,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "cpp": 2,
+      "sql": 3,
+      "python": 5,
+      "azure": 2,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "java": 1,
+      "azure": 1,
+      "angular": 5,
+      "react": 3
+    },
+    {
+      "docker": 5,
+      "angular": 2,
+      "sql": 5,
+      "python": 3,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "sql": 2,
+      "python": 4,
+      "azure": 3,
+      "spring": 1,
+      "java": 2,
+      "react": 2
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "angular": 2,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 3,
+      "azure": 2,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "react": 2,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 1,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "python": 4,
+      "aws": 3,
+      "docker": 5,
+      "azure": 4
+    },
+    {
+      "docker": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "aws": 5,
+      "sql": 4,
+      "python": 4,
+      "azure": 3,
+      "java": 1,
+      "react": 1
+    },
+    {
+      "aws": 3,
+      "docker": 1,
+      "sql": 5,
+      "python": 3,
+      "azure": 4
+    },
+    {
+      "python": 5,
+      "aws": 5,
+      "docker": 5,
+      "azure": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 3,
+      "react": 3,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 5,
+      "python": 5,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 3,
+      "sql": 5,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 1,
+      "docker": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "sql": 4,
+      "python": 4,
+      "react": 5,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "sql": 4,
+      "python": 4,
+      "aws": 5,
+      "azure": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "python": 1,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "aws": 3,
+      "docker": 5,
+      "python": 4,
+      "azure": 3,
+      "react": 2
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "python": 3,
+      "azure": 3,
+      "java": 1
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 4,
+      "python": 5,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 4,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 5,
+      "react": 3,
+      "java": 3,
+      "spring": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "react": 5,
+      "java": 4,
+      "spring": 4
+    },
+    {
+      "aws": 3,
+      "docker": 4,
+      "python": 5,
+      "azure": 4,
+      "react": 2
+    },
+    {
+      "python": 3,
+      "aws": 4,
+      "docker": 4,
+      "azure": 5
+    },
+    {
+      "cpp": 3,
+      "sql": 4,
+      "java": 5,
+      "react": 1
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "react": 4,
+      "java": 4,
+      "spring": 5
+    },
+    {
+      "cpp": 1,
+      "python": 2,
+      "angular": 3,
+      "react": 5
+    },
+    {
+      "java": 2,
+      "azure": 1,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "python": 5,
+      "aws": 4,
+      "docker": 5,
+      "azure": 5
+    },
+    {
+      "angular": 3,
+      "react": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 4
+    },
+    {
+      "azure": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "aws": 1,
+      "docker": 4,
+      "angular": 1,
+      "sql": 5,
+      "python": 3,
+      "react": 4,
+      "java": 5,
+      "spring": 5
+    },
+    {
+      "angular": 5,
+      "cpp": 1,
+      "react": 3,
+      "java": 1,
+      "spring": 1
+    },
+    {
+      "docker": 3,
+      "sql": 3,
+      "python": 5,
+      "react": 4,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 4,
+      "docker": 3,
+      "cpp": 1,
+      "python": 3,
+      "azure": 3
+    },
+    {
+      "spring": 2,
+      "angular": 4,
+      "react": 5
+    },
+    {
+      "cpp": 1,
+      "sql": 2,
+      "angular": 5,
+      "react": 5
+    },
+    {
+      "aws": 5,
+      "docker": 3,
+      "cpp": 2,
+      "python": 5,
+      "azure": 3
+    },
+    {
+      "cpp": 3,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "docker": 3,
+      "sql": 4,
+      "python": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "docker": 4,
+      "angular": 1,
+      "sql": 4,
+      "python": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "cpp": 5,
+      "sql": 3,
+      "docker": 2,
+      "java": 5
+    },
+    {
+      "docker": 4,
+      "cpp": 1,
+      "sql": 5,
+      "python": 4,
+      "react": 1,
+      "java": 3,
+      "spring": 4
+    },
+    {
+      "docker": 5,
+      "angular": 1,
+      "sql": 3,
+      "python": 3,
+      "react": 4,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 4,
+      "react": 5,
+      "java": 5,
+      "spring": 3
+    },
+    {
+      "aws": 3,
+      "docker": 3,
+      "python": 5,
+      "azure": 4,
+      "java": 2
+    },
+    {
+      "cpp": 5,
+      "sql": 5,
+      "java": 3
+    },
+    {
+      "docker": 4,
+      "angular": 2,
+      "sql": 3,
+      "python": 5,
+      "react": 5,
+      "java": 5,
+      "spring": 4
+    },
+    {
+      "cpp": 4,
+      "sql": 4,
+      "python": 2,
+      "java": 4
+    },
+    {
+      "python": 2,
+      "angular": 3,
+      "react": 4
+    },
+    {
+      "java": 1,
+      "angular": 5,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "cpp": 1,
+      "sql": 3,
+      "python": 4,
+      "react": 3,
+      "java": 4,
+      "spring": 3
+    },
+    {
+      "aws": 1,
+      "angular": 4,
+      "react": 4
+    },
+    {
+      "docker": 3,
+      "angular": 1,
+      "sql": 5,
+      "python": 3,
+      "react": 2,
+      "java": 3,
+      "spring": 5
+    },
+    {
+      "aws": 2,
+      "docker": 1,
+      "angular": 5,
+      "cpp": 1,
+      "react": 5
+    },
+    {
+      "docker": 4,
+      "sql": 3,
+      "python": 4,
+      "java": 3,
+      "spring": 5
+    }
+  ]
+}
