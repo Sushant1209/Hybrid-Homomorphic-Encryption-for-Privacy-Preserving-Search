@@ -1,0 +1,35 @@
+name: Run Stage4 Project
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-stage4:
+    name: Execute Stage4 Pipeline
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ✅ Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🚀 Run Stage4 pipeline scripts
+        run: |
+          python generate_metadata.py
+          python ultra_optimized_hybrid.py
+          python create_graphs.py
+
+      - name: 📁 Upload execution01 results as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: execution01-results
+          path: execution01/
