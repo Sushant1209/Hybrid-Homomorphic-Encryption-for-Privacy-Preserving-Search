@@ -1,4 +1,4 @@
-name: Upload Precomputed Results
+name: run project
 
 on:
   workflow_dispatch:
