@@ -1,4 +1,4 @@
-name: Run Stage4 Project
+name: Run Project
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ jobs:
       - name: ✅ Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🐍 Set up Python
+      - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
@@ -22,9 +22,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🚀 Run Stage4 pipeline scripts
+      - name: 🚀 Run Stage4 pipeline with metadata
         run: |
-          python generate_metadata.py
+          echo "🔍 Using metadata files from execution01/"
           python ultra_optimized_hybrid.py
           python create_graphs.py
 
