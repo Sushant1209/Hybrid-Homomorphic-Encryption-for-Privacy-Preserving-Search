@@ -5,7 +5,7 @@ on:
 
 jobs:
   upload-results:
-    name: Upload execution01 as artifact
+    name: result
     runs-on: ubuntu-latest
 
     steps:
