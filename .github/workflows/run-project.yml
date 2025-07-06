@@ -22,10 +22,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 🚀 Run Stage4 pipeline with metadata
+      - name: 🚀 Always run Stage4 pipeline
         run: |
-          echo "🔍 Using metadata files from execution01/"
+          echo "🔁 Executing: ultra_optimized_hybrid.py"
           python ultra_optimized_hybrid.py
+          echo "📊 Generating graphs: create_graphs.py"
           python create_graphs.py
 
       - name: 📁 Upload execution01 results as artifact
